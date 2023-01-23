@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+.carousel-control-prev-icon {
+  background-color: tomato;
+}
